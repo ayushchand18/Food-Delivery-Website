@@ -5,11 +5,11 @@
     max-height: 280px;
   }
 }
-.food-item-description {
+.food-item-des {
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 3;  /* Limit description to 3 lines */
+  -webkit-line-clamp: 3;  
   -webkit-box-orient: vertical;
 }
 
