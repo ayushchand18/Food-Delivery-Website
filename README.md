@@ -98,4 +98,4 @@ Start the Frontend server
 
 
 
-If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
+If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/ayush-chand-46000722a)
