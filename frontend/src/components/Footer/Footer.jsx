@@ -9,10 +9,8 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque
-            nostrum iure suscipit maiores non harum incidunt unde magnam
-            molestias ipsum qui vel aut natus aspernatur ipsa dignissimos,
-            numquam assumenda deserunt.
+            Bringing delicious meals to your doorstep, every single day. 
+            Fast delivery, quality food, and customer satisfaction are at the heart of everything we do.
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
