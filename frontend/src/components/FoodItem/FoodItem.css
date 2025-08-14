@@ -1,10 +1,10 @@
 .food-item {
-  width: 270px;           /* Example width, adjust per your design */
-  min-height: 340px;      /* Set a minimum height, adjust as needed */
-  max-height: 340px;      /* For strict uniformity */
+  width: 270px;          
+  min-height: 340px;      
+  max-height: 340px;      
   display: flex;
   flex-direction: column;
-  justify-content: space-between;  /* Distribute content evenly */
+  justify-content: space-between; 
   margin: auto;
   border-radius: 15px;
   box-shadow: 0px 0px 10px #00000015;
